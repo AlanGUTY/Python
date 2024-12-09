@@ -1,1 +1,11 @@
+suma = 2+5
+if suma>5:
+print(" la suma es mayor a 5")
+
+#condicional doble 
+
+if suma = 5:
+ print("la suma es igual a 5")
+else:
+  print("la es mayor a 5")
 
